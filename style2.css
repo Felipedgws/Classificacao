@@ -1,0 +1,32 @@
+body{
+    background-color: rgba(0, 0, 0, 0.91);
+    padding: 0px;
+    margin: 0px;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+section{
+padding: 15px;
+    background-color: rgb(26, 30, 42);
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: rgba(178, 178, 178, 0.804);
+}
